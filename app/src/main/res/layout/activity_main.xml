@@ -16,4 +16,12 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <Button
+        android:id="@+id/button"
+        android:layout_width="217dp"
+        android:layout_height="166dp"
+        android:text="終了"
+        tools:layout_editor_absoluteX="103dp"
+        tools:layout_editor_absoluteY="500dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
